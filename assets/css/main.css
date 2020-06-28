@@ -3663,10 +3663,14 @@ body.is-preload #header.alt .logo {
     padding: 1em;
     border-radius: 4px;
     border-bottom: 0;
-    color: #ffffff;
+    color: #ffffff !important;
     text-align: center;
     text-decoration: none;
     z-index: 3;
+}
+
+.tiles article>a>h2 {
+    color: #ffffff !important;
 }
 
 .tiles article>a> :last-child {
