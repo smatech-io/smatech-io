@@ -1,0 +1,141 @@
+[{
+        "id": "1 ",
+        "title": "Baingan",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218676\/jaivikbhoomi\/brijl_dmy4l6.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "2",
+        "title": "Kathal",
+        "image": "https: \/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218694\/jaivikbhoomi\/kathal_oqqr5e.png",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "3",
+        "title": "Kheera",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218680\/jaivikbhoomi\/Cucumberkheera_fsyyhf.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "4",
+        "title": "Nimbu",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218692\/jaivikbhoomi\/lemon_ggzrdf.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "5",
+        "title": "Kalonja",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218701\/jaivikbhoomi\/karonda_tk9xmy.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "6",
+        "title": "Lal Cholai",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218687\/jaivikbhoomi\/lalcholai_fcodfr.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "7",
+        "title": "Hari Cholai",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218714\/jaivikbhoomi\/greencholai_tbuel7.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "8",
+        "title": "Pudina",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218696\/jaivikbhoomi\/mintt_ulkhzr.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "9",
+        "title": "Ramas Phali",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218706\/jaivikbhoomi\/ramass_uy0faq.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "10",
+        "title": "Mausammi",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218701\/jaivikbhoomi\/mosmi_y0i2xx.jpg",
+        "available": "true",
+        "comingsoon": "true"
+    },
+    {
+        "id": "11",
+        "title": "Kachcha Aam",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218713\/jaivikbhoomi\/kackaaam_pclwkd.png",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "12",
+        "title": "Moog Daal",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218696\/jaivikbhoomi\/moggg_rzjj21.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "13",
+        "title": "Aalu",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218702\/jaivikbhoomi\/patato_xby17m.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "14",
+        "title": "Pyaaz",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218697\/jaivikbhoomi\/onion_swoypj.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "15",
+        "title": "Tamatar",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218704\/jaivikbhoomi\/tamater_gkcp2y.webp",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "16",
+        "title": "Lamba ghiya",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218680\/jaivikbhoomi\/ghiaaa_yp7dra.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "17",
+        "title": "Petha",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218702\/jaivikbhoomi\/pethaa_vjeklh.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "18",
+        "title": "Tori",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218707\/jaivikbhoomi\/torii_kcsbls.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "19",
+        "title": "Bhindi",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218685\/jaivikbhoomi\/bhindi_dbnrqz.png",
+        "available": "true",
+        "comingsoon": "false"
+    },
+    {
+        "id": "20",
+        "title": "Kakdi",
+        "image": "https:\/\/res.cloudinary.com\/mohansinghcloud\/image\/upload\/v1593218682\/jaivikbhoomi\/kakdii_rwm6ro.jpg",
+        "available": "true",
+        "comingsoon": "false"
+    }
+]
