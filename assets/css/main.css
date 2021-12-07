@@ -189,7 +189,7 @@ html {
 }
 
 body {
-    background-color: #935d8c;
+    background-color: #000000;
     background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
     background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
     background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
@@ -213,6 +213,7 @@ body.is-preload *:after {
 /* Type */
 
 body {
+    background-color: rgba(234, 245, 77, 0.5);
     background-color: #935d8c;
     color: rgba(255, 255, 255, 0.65);
 }
@@ -2924,6 +2925,10 @@ table.alt tbody tr td {
     display: block;
     margin: 0 auto;
     max-width: 75%;
+    height: 8rem;
+    position:relative;
+    top:4px;
+    right:3px;
 }
 
 @media screen and (max-width: 1280px) {
@@ -3344,7 +3349,7 @@ body.is-preload #header.alt .logo {
 }
 
 #main header.major h2:after {
-    background-color: #dddddd;
+    background-color: #d41010;
     background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
     background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
     background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
@@ -3787,4 +3792,42 @@ body.is-touch .tiles article .content {
         width: 100%;
         margin: 1.25em 0 0 0;
     }
+}
+.section-vlogs {
+    margin-top:0.2rem;
+    padding:6rem;
+    background-color: #ffffff;
+    color:#000000;
+    border-radius: 0.2em;
+}
+.section-vlogs > h2 {
+    color:black;
+    font-size:3rem;
+    text-align:center;
+}
+#logo-back {
+    background-color:white;
+    padding:0.5rem;
+    border-radius: 6.3rem;;
+    width:10rem;
+    height:10rem;
+    position:relative;
+    left:26rem;
+}
+.logo > h1,p {
+    color:white;
+}
+.google-map2 {
+    position:relative;
+    right:6rem;
+    border-radius: 2rem;
+    width:25rem;
+    height:20rem;
+}
+.google-map1 {
+    position:relative;
+    width:25rem;
+    height:20rem;
+    border-radius:2rem ;
+
 }
